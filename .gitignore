@@ -4,3 +4,5 @@ react/node_modules
 react/*.log
 todo-app/backend/node_modules
 todo-app/backend/*.log
+todo-app/frontend/node_modules
+todo-app/frontend/*.log
