@@ -1,2 +1,6 @@
 webpack/node_modules
 webpack/*.log
+react/node_modules
+react/*.log
+todo-app/backend/node_modules
+todo-app/backend/*.log
